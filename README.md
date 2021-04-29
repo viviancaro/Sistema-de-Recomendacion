@@ -1,4 +1,4 @@
-# PROYECTO 6: SISTEMA DE RECOMENDACIÓN
+# SISTEMA DE RECOMENDACIÓN
 En este proyecto se construye un sistema de recomendación de películas utilizando la librería Surprise para su creación y análisis. Se trabaja sobre el dataset de versión 100k de [MovieLens](https://grouplens.org/datasets/movielens/) el cual se basa en un sistema de rating de cinco estrellas y texto libre para tags. Contiene 100.000 ratings para 1.682 películas con datos creados por 943 usuarios, los cuales calificaron al menos 20 películas cada uno. Además, se emplean otras librerías como MatPLotLib, Numpy y Collections.
 
 El procedimiento utilizado se menciona a continuación:
